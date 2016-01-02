@@ -10,8 +10,8 @@
 * **[Further Exploration](#further-exploration):** What if we want to do more?
 * **[Deadlines](#deadlines):** When is it due?
 * **[Submission](#submission):** How do we turn in the project?
-<!-- [Project Groups](#project-groups): Who are my group members and assigned instructor? -->
-<!-- [Presentation Guidelines](#presentation-guidelines): What should we cover during our presentation? -->
+<!-- <a href="#project-groups">Project Groups</a>: Who are my group members and assigned instructor? -->
+<!-- <a href="#presentation-guidelines">Presentation Guidelines</a>: What should we cover during our presentation? -->
 * **[Project Feedback](#project-feedback):** How will we get feedback from instructors?
 
 ---
