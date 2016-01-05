@@ -10,6 +10,7 @@
 * **[Further Exploration](#further-exploration):** What if we want to do more?
 * **[Deadlines](#deadlines):** When is it due?
 * **[Submission](#submission):** How do we turn in the project?
+* **[Presentation Guidelines](#presentation-guidelines):** What should we cover during our presentation?
 * **[Project Feedback](#project-feedback):** How will we get feedback from instructors?
 
 ---
@@ -143,20 +144,28 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 #### Group 4 - Zoe -->
 
-<!-- ---
+---
 
 ## Presentation Guidelines
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Friday, January 15th** starting at **10:00am**. Your group's presentation should be **12 minutes or less** and cover the following:
+Each group will present their project on **Friday, January 15th** starting at **10:00am**.
 
-1. What is your project, and what does it do? (demo)
-2. What was your team's motivation to build it?
-3. Each group member should answer the following:
+**Presentation Requirements:**
+
+* Motivation for building this project.
+* Demo of core functionality.
+* **Maximum 20 minutes.**
+* **Minimum 5 slides.** Slides should include:
+  * Wireframes
+  * User stories
+  * ERDs
+  * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
+* ALL group members must speak at some point during the presentation. Each group member should answer the following:
   * What parts of the project did you work on?
   * What was the most challenging aspect? Was there anything that was surprisingly easy to implement?
-  * What did you learn? -->
+  * What did you learn?
 
 ---
 
