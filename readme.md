@@ -150,19 +150,16 @@ If you want to push yourself and learn something new, optionally consider doing 
 
 ###### What should we cover during our presentation?
 
-Each group will present their project on **Friday, January 15th** starting at **10:00am**.
+Each group will present their project on **Friday, January 15th** starting at **10:00am**. Please follow these guidelines:
 
-**Presentation Requirements:**
-
-* Motivation for building this project.
-* Demo of core functionality.
+* Your presentation should include the **motivation** for building this project and a **demo** of the core functionality.
 * **Maximum 20 minutes.**
 * **Minimum 5 slides.** Slides should include:
   * Wireframes
   * User stories
   * ERDs
   * Walk through the development of one feature from ideation to execution. At minimum, this should include wireframes, code samples, and the final result.
-* ALL group members must speak at some point during the presentation. Each group member should answer the following:
+* **ALL group members must speak during the presentation.** Each group member should answer the following:
   * What parts of the project did you work on?
   * What was the most challenging aspect? Was there anything that was surprisingly easy to implement?
   * What did you learn?
