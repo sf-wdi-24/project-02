@@ -130,19 +130,37 @@ If you want to push yourself and learn something new, optionally consider doing 
 * As you make code changes, **frequently commit and push to GitHub**.
 * To turn in your project, please add the links to your project on GitHub and Heroku to <a href="https://docs.google.com/spreadsheets/d/1JgI0BPQBc0CncnFZFQ8tdSGLmL69u9dzdEiFMUY_nP4/edit?usp=sharing" target="_blank">this spreadsheet</a>.
 
-<!-- ---
+---
 
 ## Project Groups
 
 ###### Who are my group members and assigned instructor?
 
-#### Group 1 - Ben
+#### Watson - Ben
 
-#### Group 2 - Cameron
+* Stanley
+* Victoria
+* Adam
 
-#### Group 3 - Erik
+#### Knock-Knock - Cameron
 
-#### Group 4 - Zoe -->
+* Dave
+* Trung
+* Carlos
+
+#### Pokemon Game - Erik
+
+* Steven
+* Eddy
+* Alan
+* John
+
+#### Toy Trading - Zoe
+
+* Michael
+* Cynthia
+* Zohar
+* André
 
 ---
 
